@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+@import '../scss/colors';
+@import '../scss/typography';
+@import '../scss/layout'; 
+
+body{
+    width: 100%;
+    background-color: #050607;
+}
