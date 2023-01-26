@@ -7,9 +7,11 @@
 
 @import '../scss/colors';
 @import '../scss/typography';
-@import '../scss/layout'; 
+@import '../scss/spacing';
 
 body{
     width: 100%;
     background-color: #050607;
 }
+
+@import '../scss/layout'; 
